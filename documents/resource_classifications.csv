@@ -1,7 +1,7 @@
-Kategorie,URI,Definition,Zweck
-Ontologie,https://www.wikidata.org/wiki/Q324254,"Ontologie ist ein Spezialfall eines kontrollierten Vokabulars, das Begriffe, deren Eigenschaften und komplexe Beziehungen zueinander beschreibt.",Bedeutungsvolles Verknüpfen und Ableiten von Wissen in Datenmodellen.
-Vokabular,https://www.wikidata.org/wiki/Q1469824,"Eine kontrollierte Liste von Begriffen (z. B. Schlagworte, Deskriptoren), die konsistent zur Beschreibung oder Erschließung von Informationen genutzt wird.","Einheitliche Benennung und Disambiguierung der natürlichen Sprache; kann ontologisch modelliert sein, aber i.d.R. wenig komplexe formale Relationen."
-Datenschema,https://www.wikidata.org/wiki/Q1397073,"Ein technisches Modell, das definiert, wie (Meta-)Daten strukturiert und gespeichert sind (Felder, Datentypen, Beziehungen).","Sicherstellen, dass Daten einheitlich und korrekt gespeichert, ausgetauscht oder gelesen werden können."
-Fachdokumentation,https://www.wikidata.org/wiki/Q788790,"Sprachlich formulierter Text, der Fachwissen beschreibt, analysiert oder vermittelt. ","Wissensvermittlung an Fachpublikum, nicht primär maschinenlesbar."
-Repositorium,https://www.wikidata.org/wiki/Q3133368,"Ein digitales System zur strukturierten Speicherung, Verwaltung und Abfrage großer Datenmengen.","Bereitstellung und Abfrage konkreter Datenobjekte; kann Ontologien, Vokabulare oder andere Inhalte enthalten."
+Kategorie,URI,Definition
+Ontologie,https://www.wikidata.org/wiki/Q324254,"Ontologie ist ein Spezialfall eines kontrollierten Vokabulars, das Begriffe, deren Eigenschaften und komplexe Beziehungen zueinander beschreibt."
+Vokabular,https://www.wikidata.org/wiki/Q1469824,"Eine kontrollierte Liste von Begriffen (z. B. Schlagworte, Deskriptoren), die konsistent zur Beschreibung oder Erschließung von Informationen genutzt wird. "Einheitliche Benennung und Disambiguierung der natürlichen Sprache; kann ontologisch modelliert sein, aber i.d.R. wenig komplexe formale Relationen."
+Datenschema,https://www.wikidata.org/wiki/Q1397073,"Ein technisches Modell, das definiert, wie (Meta-)Daten strukturiert und gespeichert sind (Felder, Datentypen, Beziehungen)."
+Fachdokumentation,https://www.wikidata.org/wiki/Q788790,"Sprachlich formulierter Text, der Fachwissen beschreibt, analysiert oder vermittelt."
+Repositorium,https://www.wikidata.org/wiki/Q3133368,"Ein digitales System zur strukturierten Speicherung, Verwaltung und Abfrage großer Datenmengen."
 Anwendung/Software,https://www.wikidata.org/wiki/Q166142,"konkretes technisches Tool, zur Verarbeitung, Analyse, Erstellung oder Publikation von Daten",
