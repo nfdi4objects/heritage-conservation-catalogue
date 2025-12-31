@@ -1,4 +1,4 @@
-# Heritage Conservation Catalog
+# Heritage Conservation Catalogue
 
 ---
 
