@@ -1,8 +1,8 @@
 Schlagwörter,URI
-Analyse/Untersuchung, http://d-nb.info/gnd/4122795-5 | http://purl.org/heritagedata/schemes/560/concepts/142182
+Analyse/Untersuchung, http://d-nb.info/gnd/4122795-5|http://purl.org/heritagedata/schemes/560/concepts/142182
 Arbeitsschutz, https://www.wikidata.org/wiki/Q2064531
 archäologischer Kontext, https://www.wikidata.org/wiki/Q23498
-Architektur/Bauwerk, https://www.wikidata.org/wiki/Q12271 | https://d-nb.info/gnd/4112681-6
+Architektur/Bauwerk, https://www.wikidata.org/wiki/Q12271|https://d-nb.info/gnd/4112681-6
 Chemie, https://www.wikidata.org/wiki/Q2329
 Datenaustausch, https://d-nb.info/gnd/4227289-0
 Datenintegration, http://d-nb.info/gnd/4197730-0
@@ -11,41 +11,42 @@ Datenmodell, http://d-nb.info/gnd/4192516-6
 Datierung, http://d-nb.info/gnd/4113278-6
 Empfehlung/ Leitfaden, https://www.wikidata.org/wiki/Q1630279
 Fachtext, http://d-nb.info/gnd/4192409-5
-Farbstoff/Pigment, http://d-nb.info/gnd/4016465-2 | http://d-nb.info/gnd/4132245-9
+Farbstoff/Pigment, http://d-nb.info/gnd/4016465-2|http://d-nb.info/gnd/4132245-9
 Fotografie, http://d-nb.info/gnd/4045895-7
 Gemälde, http://d-nb.info/gnd/4122164-3
 Glas, http://d-nb.info/gnd/4021142-3
-Grafikobjekt,
+Grafikobjekt, https://d-nb.info/gnd/4021845-4
 Handwerk, http://d-nb.info/gnd/4023299-2
 Herstellung, http://d-nb.info/gnd/4159653-5
 Holz, http://d-nb.info/gnd/4025668-6
 immobiles Kulturgut,
 Keramik, http://d-nb.info/gnd/4030270-2
 Kulturgut, https://d-nb.info/gnd/4139819-1
-Kunststoff,
-Langzeitarchivierung,
-Leder,
-Lehrmaterial,
-Malerei,
-Material,
-Medienobjekt,
-Metadaten,
-Metall,
-Methode,
-Mineral,
-Mosaik,
-Objektbeschreibung,
-Objektlagerung,
-Objekttransport,
-Papier,
-Präventive Konservierung,
-Sammlungspflege,
-Schaden,
-Standard,
-Stein,
-Technik/Technologie,
-Textil,
-Tool/Software,
-Wandmalerei,
-Zustandbeschreibung,
+Kunststoff, http://d-nb.info/gnd/4033676-1
+Langzeitarchivierung, http://d-nb.info/gnd/4787040-0
+Leder, http://d-nb.info/gnd/4034974-3
+Lehrmaterial, http://d-nb.info/gnd/4074111-4
+Malerei, http://d-nb.info/gnd/4037220-0
+Material, http://d-nb.info/gnd/4169078-3
+Medienobjekt, http://d-nb.info/gnd/4169187-8
+Metadaten, http://d-nb.info/gnd/4410512-5
+Metall, http://d-nb.info/gnd/4038860-8
+Methode, http://d-nb.info/gnd/4038971-6
+Mineral, http://d-nb.info/gnd/4074836-4
+Mosaik, http://d-nb.info/gnd/4040311-7
+Objektbeschreibung, http://vocab.getty.edu/aat/300435452
+Lagerungsbedingungen, https://www.w3id.org/archlink/terms/conservationthesaurus/D1CFD5
+Transportbedingungen, https://www.w3id.org/archlink/terms/conservationthesaurus/BGG5A6
+Papier, http://d-nb.info/gnd/4044522-7
+Präventive Konservierung, https://www.w3id.org/archlink/terms/conservationthesaurus/F5G576
+Sammlungspflege, http://vocab.getty.edu/aat/300379370
+Schaden, http://d-nb.info/gnd/4125902-6
+Standard, https://www.wikidata.org/wiki/Q367293
+Stein, http://d-nb.info/gnd/4183014-3
+Technik/Technologie, http://d-nb.info/gnd/4059205-4|http://d-nb.info/gnd/4059276-5
+Textil, http://d-nb.info/gnd/4059615-1
+Tool/Software, http://d-nb.info/gnd/4055382-6
+Wandmalerei, http://d-nb.info/gnd/4064542-3
+Zustandbeschreibung, https://www.w3id.org/archlink/terms/conservationthesaurus/GDF8C2
+
 
