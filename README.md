@@ -31,3 +31,9 @@ Rückfragen oder Ergänzungswünsche können gerne per E-Mail an kristina.fische
 
 ---
 
+## Förderung
+Die Materialien entstanden in dem von der DFG geförderten Projekt "NFDI4Objects - Forschungsdateninfrastruktur für die materiellen Hinterlassenschaften der Menschheitsgeschichte.
+
+Gefördert durch die Deutsche Forschungsgemeinschaft (DFG) – [501836407](https://gepris.dfg.de/gepris/projekt/501836407)
+
+
