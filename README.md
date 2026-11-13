@@ -4,7 +4,7 @@
 
 ## Hintergrund
 
-Diese Sammlung wurde von [Task Area 4](https://www.nfdi4objects.net/portal/tas/ta4/)) in Zusammenarbeit mit der [TWG "Umfeldanalyse zur FDM-Landschaft im Bereich der Erhaltung und Pflege kulturellen Erbes"] (https://www.nfdi4objects.net/portal/twgs/umfeldanalyse-zur-fdm-landschaft-im-bereich-der-erhaltung-und-pflege-kulturellen-erbes/)) zusammengetragen, ausgewertet und in Listenform zur Verfügung gestellt.
+Diese Sammlung wurde von [Task Area 4](https://www.nfdi4objects.net/portal/tas/ta4/)) in Zusammenarbeit mit der [TWG "Umfeldanalyse zur FDM-Landschaft im Bereich der Erhaltung und Pflege kulturellen Erbes"](https://www.nfdi4objects.net/portal/twgs/umfeldanalyse-zur-fdm-landschaft-im-bereich-der-erhaltung-und-pflege-kulturellen-erbes/)) zusammengetragen, ausgewertet und in Listenform zur Verfügung gestellt.
 
 Ziel ist es, Forschenden und Praktiker*innen eine strukturierte Übersicht über relevante Ressourcen im Bereich der Konservierung/Restaurierung und der Denkmalpflege/Denkmalschutz zu bieten.
 
